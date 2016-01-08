@@ -1,0 +1,4 @@
+-git log
+  - press 'q' to exit
+-git diff first_id second_id
+-Confidence from Version Control

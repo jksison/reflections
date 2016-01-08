@@ -1,0 +1,6 @@
+-git init
+-git add
+-git status
+-staging area
+-working directory
+-repository
