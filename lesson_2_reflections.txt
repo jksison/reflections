@@ -12,3 +12,6 @@ git checkout -b new_branch_name
 =git branch new_branch_name + git checkout new_branch_name
 HEAD = location in the tree
 How do the diagrams help you visualize the branch structure?
+
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
